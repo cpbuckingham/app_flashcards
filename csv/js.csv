@@ -1,3 +1,4 @@
+typeof, this operator returns a string indicating the type of the unevaluated operand (ex: typeof "blah" returns "string")
 str.length, Return length of string str
 str[n], Return nth character of string str
 str.charAt(index), Return character in string str at specified index
